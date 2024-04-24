@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My First Webpage</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <p>My name is Muhib and it is my very first Webpage :D</p>
+  </body>
+</html>
+
+
+<!DOCTYPE html> - [ It tells the browser that this is a HTML document and instructs the browser to render the page in "standard mode" thus ensures similar user experiences. ]
+
+<html> - [ Marks the start of the document. ]
+</html> - [ Marks the end of the document. ]
+
+<head></head> - [
+  Page Title:- Defines the title that is displayed on the browser and appears on search engine.
+
+  Character Encoding:- Defines the characterset that is used to display text correctly.
+
+  Description:- A brief summary of the webpage's content. 
+  This is also called SEO (Search Engine Optimization)
+
+  Keywords:- It contains relavent Keywords associated with the webpage.
+
+  Resource Linking:- It contains stylesheets (CSS) and scripts (JavaScript) that defines the webpage's styling and functionality.
+
+  Browser Instruction:- The browser may also contain element that instructs the browser how to render the webpage. For instance, the <meta name="viewport"> tag helps control how the page is displayed on different devices.
+]
+
+<body></body> - [ Body contains all the contents that are displayed on the webpage.]

@@ -1,0 +1,9 @@
+Semantics - Describes what it is.
+
+Importance of Semantics [
+  Clarity & Structure
+  Search Engine Optimization(SEO)
+  Accessibility
+  Maintainability
+  Future-Proofing
+]

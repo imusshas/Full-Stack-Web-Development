@@ -1,0 +1,9 @@
+HTML - HyperText Markup Language. It contains the content of a webpage. Web browers understands html and renders the contents from it.
+
+Element - [
+  <p>HTML is a markup langugae.</p>
+
+  Opening tag - [ <p> ]
+  Content - [ HTML is a markup language ]
+  Closing tag - [ </p> ]
+]
